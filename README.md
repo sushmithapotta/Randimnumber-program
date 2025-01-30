@@ -1,1 +1,1 @@
-# Randimnumber-program
+# Randomnumber-program
